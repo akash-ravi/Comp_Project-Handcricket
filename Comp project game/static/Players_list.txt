@@ -1,0 +1,154 @@
+Virat Kohli
+170
+MS Dhoni
+150
+Rohit Sharma
+150
+Ben Stokes
+130
+David Warner
+120
+Steve Smith
+120
+Suresh Raina
+110
+Ravichandran Ashwin
+75
+Kedar Jadhav
+75
+Hardik Pandya
+110
+Krunal Pandya
+90
+Rishabh Pant
+80
+AB de Villiers
+110
+Manish Pandey
+110
+Rashid Khan
+90
+KL Rahul
+110
+Sunil Narine
+85
+Dinesh Karthik
+75
+Ravindra Jadeja
+70
+Jasprit Bumrah
+70
+Shreyas Iyer
+70
+Sanju Samson
+80
+Bhuvneshwar Kumar
+85
+Andre Russell
+70
+Dwayne Bravo
+60
+Ishan Kishan
+65
+Shikhar Dhawan
+60
+Jofra Archer
+75
+Jos Buttler
+50
+Karn Sharma
+50
+Shane Watson
+40
+Kagiso Rabada
+50
+Kieron Pollard
+60
+Amit Mishra
+40
+Yuzvendra Chahal
+60
+Shivam Dube
+50
+Mohammad Shami
+50
+Nicholas Pooran
+50
+Mujeeb Ur Rahman
+40
+Kuldeep Yadav
+60
+Krishnappa Gowtham
+60
+Ajinkya Rahane
+50
+Rahul Tewatia
+30
+Shahbaz Nadeem
+30
+Kane Williamson
+30
+Khaleel Ahmed
+30
+Sandeep Sharma
+30
+Jonny Bairstow
+25
+Nitish Rana
+35
+Kamlesh Nagarkoti
+35
+Shivam Mavi
+30
+Shubman Gill
+20
+Lockie Ferguson
+20
+Chris Gayle
+20
+Mandeep Singh
+20
+Mayank Agarwal
+50
+Washington Sundar
+30
+Navdeep Saini
+30
+Mohammed Siraj
+25
+Parthiv Patel
+20
+Pawan Negi
+10
+Prithvi Shaw
+10
+Ishant Sharma
+10
+Varun Aaron
+10
+Shardul Thakur
+25
+Ambati Rayudu
+20
+Harbhajan Singh
+20
+Murali Vijay
+20
+Faf du Plessis
+20
+Imran Tahir
+10
+Mitchell McClenaghan
+10
+Quinton de Kock
+30
+Suryakumar Yadav
+35
+Deepak Chahar
+10
+Ruturaj Gaikwad
+10
+Devdutt Padikkal
+50
+Trent Boult
+40
